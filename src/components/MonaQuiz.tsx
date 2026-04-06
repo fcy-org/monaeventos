@@ -39,7 +39,7 @@ const guestCounts = [
   "10 a 30 pessoas",
   "30 a 70 pessoas",
   "70 a 150 pessoas",
-  "Mais de 150 pessoas",
+  "150 a 210 pessoas",
 ];
 
 const formats = [
